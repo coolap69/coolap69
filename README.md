@@ -17,8 +17,7 @@ I’m always exploring: tech, markets, creativity, and anything that sparks curi
 - Learning new things · Observing patterns · Making sense of the world  
 
 ### 🚀 Projects
-- **Rads** — my rideshare advertising concept (UI screens + digital ideas)  
-- Personal design projects (T-shirts, puzzles, banners)  
+- **Rads** — my rideshare advertising concept (UI screens + digital ideas)   
 - Small web experiments and creative prototypes  
 
 ### 🌐 Portfolio
